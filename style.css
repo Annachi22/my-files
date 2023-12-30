@@ -1,0 +1,97 @@
+#logo {
+  width: 150px;
+  height: 150px;
+}
+
+header {
+    background-color: #e5deca;
+}
+
+.title {
+  color: #D5A700 ;
+}
+
+#cups {
+    width: 700px;
+    height: 500px;
+
+    display: block;
+    margin: auto;
+}
+
+
+p {
+    color: #2C770D;
+}
+
+#fotoebi {
+ width: 400px;
+ height: 400px;
+}
+
+#foto {
+    width: 400px;
+    height: 400px;
+}
+
+#fotoo {
+    width: 400px;
+    height: 400px;
+}
+
+footer {
+    background-color: #59734E;
+}
+
+footer p {
+    font-weight: bold;
+    color: aliceblue;
+}
+
+h1 {
+    color: #59734E
+}
+
+header a{
+    color: #59734E
+}
+
+#mission-container{
+    border: 3px solid #2C770D;
+    border-radius: 10px;
+    padding-left: 30px;
+   padding-right: 30px;
+ margin-top: 30px;
+ margin-bottom: 30px;
+ margin-left: 200px;
+ margin-right: 200px;
+ width: 800px;
+ margin: auto;
+}
+
+#produqcia {
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: space-evenly;
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+header {
+    display: flex;
+    flex-wrap: wrap;   
+    padding: 20px 10px;
+    margin-bottom: 50px;
+}
+ul {
+    align-items: center;
+    list-style: none;
+    gap: 30px 
+}
+
+#logo {
+    align-items: center;
+}
